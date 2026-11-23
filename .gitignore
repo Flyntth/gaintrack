@@ -1,0 +1,14 @@
+# Angular / Node (front)
+front/node_modules/
+front/dist/
+front/.angular/
+
+# Spring / Maven (back)
+api/target/
+
+# IntelliJ / IDE
+.idea/
+front/.vscode/
+
+# Divers
+*.log
